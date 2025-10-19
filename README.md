@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm 93bx</h1>
 <h3 align="center">A full-stack developer/software engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=93bx&label=Profile%20views&color=0e75b6&style=flat" alt="93bx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=93bx" alt="93bx" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://x.com/byte_tan" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/byte_tan?logo=twitter&style=for-the-badge" alt="https://x.com/byte_tan" /></a> </p>
-
 - 🔭 I’m currently working on [Bytefinder](https://github.com/93bx/bytefinder)
 
 - 🌱 I’m currently learning **LLMs fine-tuning, DevOps**
@@ -33,6 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=93bx&show_icons=true&locale=en&layout=compact" alt="93bx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=93bx&show_icons=true&locale=en" alt="93bx" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=93bx&" alt="93bx" /></p>
 
