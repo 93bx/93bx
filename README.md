@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm 93bx</h1>
 <h3 align="center">A full-stack developer/software engineer</h3>
 
-- 🔭 I’m currently working on [Bytefinder](https://github.com/93bx/bytefinder)
-
 - 🌱 I’m currently learning **LLMs fine-tuning, DevOps**
 
 - 👯 I’m looking to collaborate on [bytewatch-stremio-addon](https://github.com/93bx/bytewatch-stremio-addon)
@@ -11,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/93bx](https://github.com/93bx)
 
-- 📫 How to reach me **contact@bytetan.com**
+- 📫 How to reach me **mmo93b@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
